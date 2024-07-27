@@ -109,13 +109,16 @@ img/classificacao_val.png)
 Nesse ensaio de Machine Learning, consegui adquirir experiência e
 entender melhor sobre os limites dos algoritmos entre os estados de
 underffiting e overfitting.
+
 Algoritmos baseados em árvores são sensível quanto a profundidade do
 crescimento e do número de árvores na floresta, fazendo com que a
 escolha correta dos valores desses parâmetros impeçam os algoritmos de
 entrar no estado de overfitting.
+
 Os algoritmos de regressão, por outro lado, são sensíveis ao grau do
 polinômio. Esse parâmetro controla o limite entre o estado de underfitting
 e overfitting desses algoritmos.
+
 Esse ensaio de Machine Learning foi muito importante para aprofundar o
 entendimento sobre o funcionamento de diversos algoritmos de
 classificação, regressão e clusterização e quais os principais parâmetros
